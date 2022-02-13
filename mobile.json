@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "poco x3 pro",
+    "price": 15000,
+    "ram": 8,
+    "rom": 0,
+    "display": 0,
+    "proccessor": 888
+  },
+  {
+    "id": 2,
+    "name": "samsung Mo1",
+    "price": 15000,
+    "ram": 8,
+    "rom": 0,
+    "display": 0,
+    "proccessor": 888
+  },
+  {
+    "id": 3,
+    "name": "poco x3 ",
+    "price": 15000,
+    "ram": 8,
+    "rom": 0,
+    "display": 0,
+    "proccessor": 888
+  },
+  {
+    "id": 4,
+    "name": "real me x3 pro",
+    "price": 15000,
+    "ram": 8,
+    "rom": 0,
+    "display": 0,
+    "proccessor": 888
+  },
+  {
+    "id": 5,
+    "name": "vivo v10",
+    "price": 15000,
+    "ram": 8,
+    "rom": 0,
+    "display": 0,
+    "proccessor": 888
+  },
+  {
+    "id": 6,
+    "name": "iphone 13",
+    "price": 15000,
+    "ram": 8,
+    "rom": 0,
+    "display": 0,
+    "proccessor": 888
+  }
+]
