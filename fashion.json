@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "img": "https://rukminim1.flixcart.com/image/495/594/ksnjp8w0/track-pant/n/e/6/m-petpntbk3218506-peter-england-original-imag66bhmyfv6x27.jpeg?q=50",
+    "name": "Peter England",
+    "price": 799,
+    "brand": "Peter England",
+    "colour": "Grey"
+  },
+  {
+    "id": 2,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kufuikw0/jean/y/j/x/32-hljn001747-highlander-original-imag7kbssem5vffv.jpeg?q=50",
+    "name": "HighLander",
+    "price": 899,
+    "brand": "HighLander",
+    "colour": "Lightblue"
+  },
+  {
+    "id": 3,
+    "img": "https://rukminim1.flixcart.com/image/495/594/keq058w0/track-pant/w/n/q/xxl-tblrdjogj22-bljogj23-tripr-original-imafvbx34punyp7j.jpeg?q=50",
+    "name": "Tripr",
+    "price": 1099,
+    "brand": "Tripr",
+    "colour": "Red & Black"
+  },
+  {
+    "id": 4,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kc9eufk0/short/s/e/u/xxl-g-mshort-navy-an-mil-2pcs-gyrfalcon-original-imaftfkzw3x84v8u.jpeg?q=50",
+    "name": "GyraFalcon",
+    "price": 799,
+    "brand": "GyraFalcon",
+    "colour": "Violet & Grey"
+  },
+  {
+    "id": 5,
+    "img": "https://rukminim1.flixcart.com/image/495/594/k8xduvk0/shirt/h/z/n/xl-shirt-top110-xl-pu-fubar-original-imafqttfzygwxgd8.jpeg?q=50",
+    "name": "Protocol Shirt",
+    "price": 1111,
+    "brand": "Protocol",
+    "colour": "Black"
+  },
+  {
+    "id": 6,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kc0u7bk0/shirt/a/m/i/m-pk19sh09g-surhi-original-imaft8y3wdfshukg.jpeg?q=50",
+    "name": "Shuri",
+    "price": 249,
+    "brand": "Shuri",
+    "colour": "Grey"
+  },
+  {
+    "id": 7,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kuef2q80/shirt/e/0/i/39-vhsffcufv37869-van-heusen-original-imag7jg6ycqfhp3j.jpeg?q=50",
+    "name": "Ven Hausen",
+    "price": 399,
+    "brand": "Ven Hausen",
+    "colour": "Black"
+  },
+  {
+    "id": 8,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kh80vww0-0/shirt/g/b/d/m-fo-shrt-499-wht-5th-anfold-original-imaeue3bhdeqnzmw.jpeg?q=50",
+    "name": "Fifth Anafold",
+    "price": 401,
+    "brand": "Anafold",
+    "colour": "white"
+  },
+  {
+    "id": 9,
+    "img": "https://rukminim1.flixcart.com/image/495/594/krntoy80/shirt/r/i/e/m-maroon-5-jai-textiles-original-imag5efnfqafkf6x.jpeg?q=50",
+    "name": "Jai Textiles",
+    "price": 699,
+    "brand": "Textiles",
+    "colour": "Marron"
+  },
+  {
+    "id": 10,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kppt47k0/shirt/6/3/e/s-double-threshold-blue-shirt-marmic-fab-original-imag3vuccfjqpf3u.jpeg?q=50",
+    "name": "Marmic Fab",
+    "price": 459,
+    "brand": "Marmic",
+    "colour": "Cgreen"
+  },
+  {
+    "id": 11,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kt7jv680/shirt/a/z/h/m-men-slim-fit-solid-mandarin-collar-casual-shirt-mildin-original-imag6hxmthavsbkt.jpeg?q=50",
+    "name": "Mildin",
+    "price": 439,
+    "brand": "Mildin",
+    "colour": "Maroon"
+  },
+  {
+    "id": 12,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kyhlfgw0/shirt/4/w/v/40-pmsx15931-k8-park-avenue-original-imagapnepzduzrgp.jpeg?q=50",
+    "name": "Park Avenue",
+    "price": 699,
+    "brand": "Park Avenue",
+    "colour": "Black"
+  },
+  {
+    "id": 13,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kvba7bk0/kurta/x/s/c/l-kurta-navy-blue-freluro-original-imag88usjq3kgzng.jpeg?q=50",
+    "name": "Freulo",
+    "price": 399,
+    "brand": "Freulo",
+    "colour": "Violet"
+  },
+  {
+    "id": 14,
+    "img": "https://rukminim1.flixcart.com/image/495/594/k30h8y80/kurta/3/h/z/xl-kurta-white-elepants-original-imafm8btruemhady.jpeg?q=50",
+    "name": "Elepants",
+    "price": 599,
+    "brand": "Elepants",
+    "colour": "White"
+  },
+  {
+    "id": 15,
+    "img": "https://rukminim1.flixcart.com/image/495/594/ky7lci80/raincoat/m/c/f/free-raincoat-green-decorsecrets-original-imagahtg9kgffzma.jpeg?q=50",
+    "name": "NHR",
+    "price": 699,
+    "brand": "NHR",
+    "colour": ""
+  },
+  {
+    "id": 16,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kwfaj680/shoe/t/f/b/9-combo-2-9273-9310-aerambol-black-grey-original-imag93yjewgzdn4k.jpeg?q=50",
+    "name": "world wear Foot wear",
+    "price": 499,
+    "brand": "",
+    "colour": "Black"
+  },
+  {
+    "id": 17,
+    "img": "https://rukminim1.flixcart.com/image/495/594/jur9nrk0/shoe/k/b/a/wonder-1313-7-asian-grey-orange-original-imaffbmzjc5hmagy.jpeg?q=50",
+    "name": "Asian",
+    "price": 450,
+    "brand": "",
+    "colour": ""
+  },
+  {
+    "id": 18,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kl5hh8w0/blazer/p/z/x/40-ufbz0085-u-s-polo-assn-original-imagycdqg2ytzykw.jpeg?q=50",
+    "name": "US POLO Asan",
+    "price": 458,
+    "brand": "US POLO",
+    "colour": ""
+  },
+  {
+    "id": 19,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kzegk280/blazer/1/6/x/42-rmjs01895-g6-raymond-original-imagbf9vj2xbvptg.jpeg?q=50",
+    "name": "Raymond",
+    "price": 1299,
+    "brand": "Raymond",
+    "colour": "Grey"
+  },
+  {
+    "id": 20,
+    "img": "https://rukminim1.flixcart.com/image/495/594/kr0ynbk0/kids-dungaree-romper/r/u/o/10-11-years-blue-girls-dungaree-ubfashions-original-imag4whmuqgr46xg.jpeg?q=50",
+    "name": "UBFASHIONS",
+    "price": 399,
+    "brand": "UBFASHIONS",
+    "colour": "white & Black"
+  }
+]
